@@ -1,4 +1,4 @@
-# Games or/ou Jogos :brazil:
+# YouTube Games or/ou Jogos :brazil:
 :star: [Dar uma Estrela Para o Projeto](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/stargazers) :thumbsup:
 
 ## Descrição :memo:
@@ -11,13 +11,13 @@ Espero que vocês gostem do que eu montei aqui.
 
 ## 1. Vídeos no YouTube
 
-:arrow_forward: [Playlist YouTube]()
+:arrow_forward: [Playlist YouTube](https://www.youtube.com/watch?v=MT6RpuPKSyw&list=PLgXoNCMC3FvYOo-g8T9tTN5fHH1r10ENg)
 
 ### 001: Curso de Python com Pygame - Como Fazer o Jogo Simon **(Python :snake:)**
 
 **:film_strip: Vídeo Completo:** [YouTube - Curso de Python com Pygame - Como Fazer o Jogo Simon](https://www.youtube.com/watch?v=MT6RpuPKSyw)
 
-**:open_file_folder: Pasta do Projeto:**  [GitHub - 001_Simon_the_Game.py]()
+**:open_file_folder: Pasta do Projeto:**  [GitHub - 001_Simon_the_Game.py](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/001_Simon_the_Game)
 
 ![Projeto final](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/001_Simon_the_Game.png)
 
@@ -25,7 +25,7 @@ Espero que vocês gostem do que eu montei aqui.
 
 **:film_strip: Vídeo Completo:** [YouTube - Curso de Python com Pygame - Como Fazer o Jogo da Velha](https://www.youtube.com/watch?v=1DZ12S1Fi0Y)
 
-**:open_file_folder: Pasta do Projeto:**  [GitHub - 002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR]()
+**:open_file_folder: Pasta do Projeto:**  [GitHub - 002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR)
 
 ![Projeto final](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR.png)
 
@@ -33,7 +33,7 @@ Espero que vocês gostem do que eu montei aqui.
 
 **:film_strip: Vídeo Completo:** [YouTube - Curso de Python com Pygame - Como Fazer o Jogo da Forca](https://www.youtube.com/watch?v=fcPSU5t3CIo)
 
-**:open_file_folder: Pasta do Projeto:**  [GitHub - ]()
+**:open_file_folder: Pasta do Projeto:**  [GitHub - 003_Hangman_Game_en_Jogo_da_Forca_pt_BR](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/003_Hangman_Game_en_Jogo_da_Forca_pt_BR)
 
 ![Projeto final](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/003_Hangman_Game_en_Jogo_da_Forca_pt_BR.png)
 
@@ -41,7 +41,7 @@ Espero que vocês gostem do que eu montei aqui.
 
 **:film_strip: Vídeo Completo:** [YouTube - Curso de Python com Pygame - Como Fazer o Jogo Sudoku](https://www.youtube.com/watch?v=zMumjrj7r1Y)
 
-**:open_file_folder: Pasta do Projeto:**  [GitHub - ]()
+**:open_file_folder: Pasta do Projeto:**  [GitHub - 004_Sudoku](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/004_Sudoku)
 
 ![Projeto final](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/004_Sudoku.png)
 
@@ -51,6 +51,6 @@ Espero que vocês gostem do que eu montei aqui.
 
 **:film_strip: Vídeo Demonstrativo do Projeto:** [YouTube - Meus Top 5 Projetos de Jogos em Python (Projeto 4)](https://www.youtube.com/watch?v=xMB_WjkwMLE&list=PLgXoNCMC3FvYOo-g8T9tTN5fHH1r10ENg&index=6&t=368s)
 
-**:open_file_folder: Pasta do Projeto:**  [GitHub - ]()
+**:open_file_folder: Pasta do Projeto:**  [GitHub - 001_Chess_en_Xadrez_pt_BR](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/000_Under_Development/001_Chess_en_Xadrez_pt_BR)
 
 ![Projeto Hoje]()
