@@ -53,4 +53,4 @@ Espero que vocês gostem do que eu montei aqui.
 
 **:open_file_folder: Pasta do Projeto:**  [GitHub - 001_Chess_en_Xadrez_pt_BR](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/000_Under_Development/001_Chess_en_Xadrez_pt_BR)
 
-![Projeto Hoje]()
+![Projeto Hoje](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/01_Chess_en_Xadrez_pt_BR.png)
