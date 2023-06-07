@@ -47,7 +47,7 @@ Espero que vocês gostem do que eu montei aqui.
 
 ## 2. Projects Under Development | Projetos em Desenvolvimento
 
-### 001: Meus Top 5 Projetos de Jogos em Python (Projeto 4: Xadrez) **(Python :snake:)**
+### 01: Meus Top 5 Projetos de Jogos em Python (Projeto 4: Xadrez) **(Python :snake:)**
 
 **:film_strip: Vídeo Demonstrativo do Projeto:** [YouTube - Meus Top 5 Projetos de Jogos em Python (Projeto 4)](https://www.youtube.com/watch?v=xMB_WjkwMLE&list=PLgXoNCMC3FvYOo-g8T9tTN5fHH1r10ENg&index=6&t=368s)
 
