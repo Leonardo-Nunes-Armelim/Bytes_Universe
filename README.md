@@ -51,6 +51,6 @@ Espero que vocês gostem do que eu montei aqui.
 
 **:film_strip: Vídeo Demonstrativo do Projeto:** [YouTube - Meus Top 5 Projetos de Jogos em Python (Projeto 4)](https://www.youtube.com/watch?v=xMB_WjkwMLE&list=PLgXoNCMC3FvYOo-g8T9tTN5fHH1r10ENg&index=6&t=368s)
 
-**:open_file_folder: Pasta do Projeto:**  [GitHub - 001_Chess_en_Xadrez_pt_BR](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/000_Under_Development/001_Chess_en_Xadrez_pt_BR)
+**:open_file_folder: Pasta do Projeto:**  [GitHub - 001_Chess_en_Xadrez_pt_BR](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/000_Under_Development_en_Em_desenvolvimento_pt_BR/01_Chess_en_Xadrez_pt_BR)
 
 ![Projeto Hoje](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/01_Chess_en_Xadrez_pt_BR.png)
