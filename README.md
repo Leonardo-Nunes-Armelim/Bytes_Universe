@@ -34,7 +34,7 @@ Espero que vocês gostem do que eu montei aqui.
         <p>:film_strip:<a href="https://www.youtube.com/watch?v=MT6RpuPKSyw"><b>Vídeo Completo no YouTube</b></a></p>
         <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/001_Simon_the_Game"><b>Pasta do Projeto</b></a></p>
       </td>
-      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/001_Simon_the_Game.png" alt="001_Simon_the_Game.png" style="height: 300px; max-width: auto;"></td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/001_Simon_the_Game.png" alt="001_Simon_the_Game.png" style="width: 350px; max-height: auto;"></td>
     </tr>
     <tr>
       <td>
@@ -42,7 +42,7 @@ Espero que vocês gostem do que eu montei aqui.
         <p>:film_strip:<a href="https://www.youtube.com/watch?v=1DZ12S1Fi0Y"><b>Vídeo Completo no YouTube</b></a></p>
         <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR"><b>Pasta do Projeto</b></a></p>
       </td>
-      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR.png" alt="002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR.png" style="height: 300px; max-width: auto;"></td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR.png" alt="002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR.png" style="width: 350px; max-height: auto;"></td>
     </tr>
     <tr>
       <td>
@@ -50,7 +50,7 @@ Espero que vocês gostem do que eu montei aqui.
         <p>:film_strip:<a href="https://www.youtube.com/watch?v=fcPSU5t3CIo"><b>Vídeo Completo no YouTube</b></a></p>
         <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/003_Hangman_Game_en_Jogo_da_Forca_pt_BR"><b>Pasta do Projeto</b></a></p>
       </td>
-      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/003_Hangman_Game_en_Jogo_da_Forca_pt_BR.png" alt="" style="height: 300px; max-width: auto;"></td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/003_Hangman_Game_en_Jogo_da_Forca_pt_BR.png" alt="" style="width: 350px; max-height: auto;"></td>
     </tr>
     <tr>
       <td>
@@ -58,7 +58,7 @@ Espero que vocês gostem do que eu montei aqui.
         <p>:film_strip:<a href="https://www.youtube.com/watch?v=zMumjrj7r1Y"><b>Vídeo Completo no YouTube</b></a></p>
         <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/004_Sudoku"><b>Pasta do Projeto</b></a></p>
       </td>
-      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/004_Sudoku.png" alt="" style="height: 300px; max-width: auto;"></td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/004_Sudoku.png" alt="" style="width: 350px; max-height: auto;"></td>
     </tr>
   </tbody>
 </table>
@@ -77,7 +77,7 @@ Espero que vocês gostem do que eu montei aqui.
         <p>:film_strip:<a href="https://www.youtube.com/watch?v=xMB_WjkwMLE&list=PLgXoNCMC3FvYOo-g8T9tTN5fHH1r10ENg&index=6&t=368s"><b>Vídeo Demonstrativo do Projeto</b></a></p>
         <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/000_Under_Development_en_Em_desenvolvimento_pt_BR/01_Chess_en_Xadrez_pt_BR"><b>Pasta do Projeto</b></a></p>
       </td>
-      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/01_Chess_en_Xadrez_pt_BR.png" alt="001_Simon_the_Game.png" style="height: 300px; max-width: auto;"></td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/01_Chess_en_Xadrez_pt_BR.png" alt="001_Simon_the_Game.png" style="width: 350px; max-height: auto;"></td>
     </tr>
   </tbody>
 </table>
