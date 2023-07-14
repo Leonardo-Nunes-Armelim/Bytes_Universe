@@ -17,7 +17,7 @@ Espero que vocês gostem do que eu montei aqui.
       <h1>:arrow_forward: <a href="https://www.youtube.com/watch?v=MT6RpuPKSyw&list=PLgXoNCMC3FvYOo-g8T9tTN5fHH1r10ENg">Playlist YouTube</a></h1>
     </td>
     <td>
-      <img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/000_Playlist.png" alt="000_Playlist.png" style="height: 300px; max-width: auto;">
+      <img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/000_Playlist.png" alt="000_Playlist.png" style="width: 250px; max-height: auto;">
     </td>
   </tr>
 </table>
