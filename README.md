@@ -9,48 +9,75 @@ Esse é um repositório de jogos que fui programando ao longo do tempo. Decidi d
 
 Espero que vocês gostem do que eu montei aqui.
 
-## 1. Vídeos no YouTube
+## 1. Finished Projects | Projetos Finalizados
 
-:arrow_forward: [Playlist YouTube](https://www.youtube.com/watch?v=MT6RpuPKSyw&list=PLgXoNCMC3FvYOo-g8T9tTN5fHH1r10ENg)
-
-### 001: Curso de Python com Pygame - Como Fazer o Jogo Simon **(Python :snake:)**
-
-**:film_strip: Vídeo Completo:** [YouTube - Curso de Python com Pygame - Como Fazer o Jogo Simon](https://www.youtube.com/watch?v=MT6RpuPKSyw)
-
-**:open_file_folder: Pasta do Projeto:**  [GitHub - 001_Simon_the_Game.py](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/001_Simon_the_Game)
-
-![Projeto final](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/001_Simon_the_Game.png)
-
-### 002: Curso de Python com Pygame - Como Fazer o Jogo da Velha **(Python :snake:)**
-
-**:film_strip: Vídeo Completo:** [YouTube - Curso de Python com Pygame - Como Fazer o Jogo da Velha](https://www.youtube.com/watch?v=1DZ12S1Fi0Y)
-
-**:open_file_folder: Pasta do Projeto:**  [GitHub - 002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR)
-
-![Projeto final](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR.png)
-
-### 003: Curso de Python com Pygame - Como Fazer o Jogo da Forca **(Python :snake:)**
-
-**:film_strip: Vídeo Completo:** [YouTube - Curso de Python com Pygame - Como Fazer o Jogo da Forca](https://www.youtube.com/watch?v=fcPSU5t3CIo)
-
-**:open_file_folder: Pasta do Projeto:**  [GitHub - 003_Hangman_Game_en_Jogo_da_Forca_pt_BR](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/003_Hangman_Game_en_Jogo_da_Forca_pt_BR)
-
-![Projeto final](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/003_Hangman_Game_en_Jogo_da_Forca_pt_BR.png)
-
-### 004: Curso de Python com Pygame - Como Fazer o Jogo Sudoku **(Python :snake:)**
-
-**:film_strip: Vídeo Completo:** [YouTube - Curso de Python com Pygame - Como Fazer o Jogo Sudoku](https://www.youtube.com/watch?v=zMumjrj7r1Y)
-
-**:open_file_folder: Pasta do Projeto:**  [GitHub - 004_Sudoku](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/004_Sudoku)
-
-![Projeto final](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/004_Sudoku.png)
+<table>
+  <tr>
+    <td>
+      <h1>:arrow_forward: <a href="https://www.youtube.com/watch?v=MT6RpuPKSyw&list=PLgXoNCMC3FvYOo-g8T9tTN5fHH1r10ENg">Playlist YouTube</a></h1>
+    </td>
+    <td>
+      <img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/000_Playlist.png" alt="000_Playlist.png" style="height: 300px; max-width: auto;">
+    </td>
+  </tr>
+</table>
+  
+<table>
+  <thead>
+    <th>Jogo e Links</th>
+    <th>Imagem</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p><b>001: Simon (Python :snake:)</b></p>
+        <p>:film_strip:<a href="https://www.youtube.com/watch?v=MT6RpuPKSyw"><b>Vídeo Completo no YouTube</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/001_Simon_the_Game"><b>Pasta do Projeto</b></a></p>
+      </td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/001_Simon_the_Game.png" alt="001_Simon_the_Game.png" style="height: 300px; max-width: auto;"></td>
+    </tr>
+    <tr>
+      <td>
+        <p><b>002: Jogo da Velha (Python :snake:)</b></p>
+        <p>:film_strip:<a href="https://www.youtube.com/watch?v=1DZ12S1Fi0Y"><b>Vídeo Completo no YouTube</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR"><b>Pasta do Projeto</b></a></p>
+      </td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR.png" alt="002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR.png" style="height: 300px; max-width: auto;"></td>
+    </tr>
+    <tr>
+      <td>
+        <p><b>003: Jogo da Forca (Python :snake:)</b></p>
+        <p>:film_strip:<a href="https://www.youtube.com/watch?v=fcPSU5t3CIo"><b>Vídeo Completo no YouTube</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/003_Hangman_Game_en_Jogo_da_Forca_pt_BR"><b>Pasta do Projeto</b></a></p>
+      </td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/003_Hangman_Game_en_Jogo_da_Forca_pt_BR.png" alt="" style="height: 300px; max-width: auto;"></td>
+    </tr>
+    <tr>
+      <td>
+        <p><b>004: Sudoku</b></p>
+        <p>:film_strip:<a href="https://www.youtube.com/watch?v=zMumjrj7r1Y"><b>Vídeo Completo no YouTube</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/004_Sudoku"><b>Pasta do Projeto</b></a></p>
+      </td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/004_Sudoku.png" alt="" style="height: 300px; max-width: auto;"></td>
+    </tr>
+  </tbody>
+</table>
 
 ## 2. Projects Under Development | Projetos em Desenvolvimento
 
-### 01: Meus Top 5 Projetos de Jogos em Python (Projeto 4: Xadrez) **(Python :snake:)**
-
-**:film_strip: Vídeo Demonstrativo do Projeto:** [YouTube - Meus Top 5 Projetos de Jogos em Python (Projeto 4)](https://www.youtube.com/watch?v=xMB_WjkwMLE&list=PLgXoNCMC3FvYOo-g8T9tTN5fHH1r10ENg&index=6&t=368s)
-
-**:open_file_folder: Pasta do Projeto:**  [GitHub - 001_Chess_en_Xadrez_pt_BR](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/000_Under_Development_en_Em_desenvolvimento_pt_BR/01_Chess_en_Xadrez_pt_BR)
-
-![Projeto Hoje](https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/01_Chess_en_Xadrez_pt_BR.png)
+<table>
+  <thead>
+    <th>Jogo e Links</th>
+    <th>Imagem</th>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <p><b>01: Xadrez (Python :snake:)</b></p>
+        <p>:film_strip:<a href="https://www.youtube.com/watch?v=xMB_WjkwMLE&list=PLgXoNCMC3FvYOo-g8T9tTN5fHH1r10ENg&index=6&t=368s"><b>Vídeo Demonstrativo do Projeto</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/000_Under_Development_en_Em_desenvolvimento_pt_BR/01_Chess_en_Xadrez_pt_BR"><b>Pasta do Projeto</b></a></p>
+      </td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/01_Chess_en_Xadrez_pt_BR.png" alt="001_Simon_the_Game.png" style="height: 300px; max-width: auto;"></td>
+    </tr>
+  </tbody>
+</table>
