@@ -58,7 +58,7 @@ Espero que vocês gostem do que eu montei aqui.
         <p>:film_strip:<a href="https://www.youtube.com/watch?v=zMumjrj7r1Y"><b>Vídeo Completo no YouTube</b></a></p>
         <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/004_Sudoku"><b>Pasta do Projeto</b></a></p>
       </td>
-      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/004_Sudoku.png" alt="" style="width: 350px; max-height: auto;"></td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/004_Sudoku_V1.png" alt="" style="width: 350px; max-height: auto;"></td>
     </tr>
   </tbody>
 </table>
