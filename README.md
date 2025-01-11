@@ -9,7 +9,7 @@ Esse é um repositório de jogos que fui programando ao longo do tempo. Decidi d
 
 Espero que vocês gostem do que eu montei aqui.
 
-## 1. Finished Projects | Projetos Finalizados
+## 1. Projetos Finalizados (Python :snake:)
 
 <table>
   <tr>
@@ -17,7 +17,7 @@ Espero que vocês gostem do que eu montei aqui.
       <h1>:arrow_forward: <a href="https://www.youtube.com/watch?v=MT6RpuPKSyw&list=PLgXoNCMC3FvYOo-g8T9tTN5fHH1r10ENg">Playlist YouTube</a></h1>
     </td>
     <td>
-      <img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/000_Playlist.png" alt="000_Playlist.png" style="width: 250px; max-height: auto;">
+      <img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/000_Playlist.png" alt="000_Playlist.png" style="width: 250px; max-height: auto;">
     </td>
   </tr>
 </table>
@@ -30,35 +30,67 @@ Espero que vocês gostem do que eu montei aqui.
   <tbody>
     <tr>
       <td>
-        <p><b>001: Simon (Python :snake:)</b></p>
+        <p><b>001: Simon</b></p>
         <p>:film_strip:<a href="https://www.youtube.com/watch?v=MT6RpuPKSyw"><b>Vídeo Completo no YouTube</b></a></p>
-        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/001_Simon_the_Game"><b>Pasta do Projeto</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/001_Simon_the_Game"><b>Pasta do Projeto</b></a></p>
       </td>
-      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/001_Simon_the_Game.png" alt="001_Simon_the_Game.png" style="width: 350px; max-height: auto;"></td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/001_Simon_the_Game.png" alt="" style="width: 350px; max-height: auto;"></td>
     </tr>
     <tr>
       <td>
-        <p><b>002: Jogo da Velha (Python :snake:)</b></p>
+        <p><b>002: Jogo da Velha</b></p>
         <p>:film_strip:<a href="https://www.youtube.com/watch?v=1DZ12S1Fi0Y"><b>Vídeo Completo no YouTube</b></a></p>
-        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR"><b>Pasta do Projeto</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/002_Jogo_da_Velha"><b>Pasta do Projeto</b></a></p>
       </td>
-      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR.png" alt="002_Tic_Tac_Toe_en_Python_Jogo_da_Velha_pt_BR.png" style="width: 350px; max-height: auto;"></td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/002_Jogo_da_Velha.png" alt="" style="width: 350px; max-height: auto;"></td>
     </tr>
     <tr>
       <td>
-        <p><b>003: Jogo da Forca (Python :snake:)</b></p>
+        <p><b>003: Jogo da Forca</b></p>
         <p>:film_strip:<a href="https://www.youtube.com/watch?v=fcPSU5t3CIo"><b>Vídeo Completo no YouTube</b></a></p>
-        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/003_Hangman_Game_en_Jogo_da_Forca_pt_BR"><b>Pasta do Projeto</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/003_Jogo_da_Forca"><b>Pasta do Projeto</b></a></p>
       </td>
-      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/003_Hangman_Game_en_Jogo_da_Forca_pt_BR.png" alt="" style="width: 350px; max-height: auto;"></td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/003_Jogo_da_Forca.png" alt="" style="width: 350px; max-height: auto;"></td>
     </tr>
     <tr>
       <td>
         <p><b>004: Sudoku</b></p>
         <p>:film_strip:<a href="https://www.youtube.com/watch?v=zMumjrj7r1Y"><b>Vídeo Completo no YouTube</b></a></p>
-        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/004_Sudoku"><b>Pasta do Projeto</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/004_Sudoku"><b>Pasta do Projeto</b></a></p>
       </td>
-      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/004_Sudoku_V1.png" alt="" style="width: 350px; max-height: auto;"></td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/004_Sudoku_V1.png" alt="" style="width: 350px; max-height: auto;"></td>
+    </tr>
+    <tr>
+      <td>
+        <p><b>005: Jogo da Cobrinha</b></p>
+        <p>:film_strip:<a href="https://www.youtube.com/watch?v=eehcQR5lrAA"><b>Vídeo Completo no YouTube</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/005_Jogo_da_Cobrinha"><b>Pasta do Projeto</b></a></p>
+      </td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/005_Jogo_da_Cobrinha.png" alt="" style="width: 350px; max-height: auto;"></td>
+    </tr>
+    <tr>
+      <td>
+        <p><b>006: Guess the Number</b></p>
+        <p>:film_strip:<a href="https://youtu.be/ILYfKn8Q-p0"><b>Vídeo Completo no YouTube</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/006_Guess_the_Number"><b>Pasta do Projeto</b></a></p>
+      </td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/006_Guess_the_Number.png" alt="" style="width: 350px; max-height: auto;"></td>
+    </tr>
+    <tr>
+      <td>
+        <p><b>007: Resta 1</b></p>
+        <p>:film_strip:<a href="https://youtu.be/jQ8Bw8gU7U4"><b>Vídeo Completo no YouTube</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/007_Resta_1"><b>Pasta do Projeto</b></a></p>
+      </td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/007_Resta_1.png" alt="" style="width: 350px; max-height: auto;"></td>
+    </tr>
+    <tr>
+      <td>
+        <p><b>008: Sokoban</b></p>
+        <p>:film_strip:<a href="https://youtu.be/HVEwkSnN5Sg"><b>Vídeo Completo no YouTube</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/008_Sokoban"><b>Pasta do Projeto</b></a></p>
+      </td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/008_Sokoban.png" alt="" style="width: 350px; max-height: auto;"></td>
     </tr>
   </tbody>
 </table>
