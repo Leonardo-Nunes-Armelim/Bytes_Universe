@@ -107,9 +107,9 @@ Espero que vocês gostem do que eu montei aqui.
       <td>
         <p><b>01: Xadrez (Python :snake:)</b></p>
         <p>:film_strip:<a href="https://www.youtube.com/watch?v=xMB_WjkwMLE&list=PLgXoNCMC3FvYOo-g8T9tTN5fHH1r10ENg&index=6&t=368s"><b>Vídeo Demonstrativo do Projeto</b></a></p>
-        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/tree/main/Python/000_Under_Development_en_Em_desenvolvimento_pt_BR/01_Chess_en_Xadrez_pt_BR"><b>Pasta do Projeto</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/000_Em_desenvolvimento/01_Xadrez"><b>Pasta do Projeto</b></a></p>
       </td>
-      <td><img src="https://github.com/Leonardo-Nunes-Armelim/YouTube_Games_en_Jogos_pt_BR/blob/main/Screenshots/01_Chess_en_Xadrez_pt_BR.png" alt="001_Simon_the_Game.png" style="width: 350px; max-height: auto;"></td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/01_Xadrez.png" alt="001_Simon_the_Game.png" style="width: 350px; max-height: auto;"></td>
     </tr>
   </tbody>
 </table>
