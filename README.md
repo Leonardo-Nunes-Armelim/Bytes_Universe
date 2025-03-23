@@ -92,6 +92,30 @@ Espero que vocês gostem do que eu montei aqui.
       </td>
       <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/008_Sokoban.png" alt="" style="width: 350px; max-height: auto;"></td>
     </tr>
+    <tr>
+      <td>
+        <p><b>009: Tetris</b></p>
+        <p>:film_strip:<a href="https://youtu.be/NT3JW97u4Zw"><b>Vídeo Completo no YouTube</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/009_Tetris"><b>Pasta do Projeto</b></a></p>
+      </td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/009_Tetris.png" alt="" style="width: 350px; max-height: auto;"></td>
+    </tr>
+    <tr>
+      <td>
+        <p><b>010: Pong</b></p>
+        <p>:film_strip:<a href="https://youtu.be/OxMqUB6EWng"><b>Vídeo Completo no YouTube</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/010_Pong"><b>Pasta do Projeto</b></a></p>
+      </td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/010_Pong.png" alt="" style="width: 350px; max-height: auto;"></td>
+    </tr>
+    <tr>
+      <td>
+        <p><b>011: Pedra, Papel, Tesoura, Lagarto e Spock</b></p>
+        <p>:film_strip:<a href="https://youtu.be/1yHw8cwxafg"><b>Vídeo Completo no YouTube</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/011_Pedra_Papel_Tesoura_Lagarto_Spock"><b>Pasta do Projeto</b></a></p>
+      </td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/011_Pedra_Papel_Tesoura_Lagarto_Spock.png" alt="" style="width: 350px; max-height: auto;"></td>
+    </tr>
   </tbody>
 </table>
 
