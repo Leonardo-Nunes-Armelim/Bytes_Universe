@@ -116,6 +116,14 @@ Espero que vocês gostem do que eu montei aqui.
       </td>
       <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/011_Pedra_Papel_Tesoura_Lagarto_Spock.png" alt="" style="width: 350px; max-height: auto;"></td>
     </tr>
+    <tr>
+      <td>
+        <p><b>011: Pedra, Papel e Tesoura</b></p>
+        <p>:film_strip:<a href=""><b>Vídeo Completo no YouTube</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/012_Pedra_Papel_Tesoura"><b>Pasta do Projeto</b></a></p>
+      </td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/012_Pedra_Papel_Tesoura.png" alt="" style="width: 350px; max-height: auto;"></td>
+    </tr>
   </tbody>
 </table>
 
