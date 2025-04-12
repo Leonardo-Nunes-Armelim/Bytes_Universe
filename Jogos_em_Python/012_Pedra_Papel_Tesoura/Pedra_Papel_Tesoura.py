@@ -2,12 +2,12 @@ import pygame as pg
 import random
 
 
-class PPTLS:
-    def __init__(self, window_size):
+class PedraPapelTesoura:
+    def __init__(self):
         self.white = (255, 255, 255)
         self.black = (  0,   0,   0)
 
-        self.window = pg.display.set_mode(window_size)
+        self.window = pg.display.set_mode((750, 900))
 
         pg.font.init()
         self.font_1 = pg.font.SysFont("Courier New", 300, bold=True)
@@ -149,7 +149,7 @@ class PPTLS:
             self.match_result_text(None, '')
 
 
-pptls = PPTLS((750, 900))
+ppt = PedraPapelTesoura()
 
 
 while True:
@@ -165,18 +165,18 @@ while True:
     # Mouse info
     mouse_position  = pg.mouse.get_pos()
     mouse_input = pg.mouse.get_pressed()
-    mouse_click = pptls.mouse_has_clicked(mouse_input)
+    mouse_click = ppt.mouse_has_clicked(mouse_input)
     mouse = (mouse_position, mouse_input, mouse_click)
 
     # Game
-    pptls.clock.tick(60)
-    pptls.clear_window()
-    pptls.actions_buttons(mouse)
-    pptls.board()
-    pptls.adversary_selected_play()
-    pptls.selected_play()
-    pptls.match_result()
+    ppt.clock.tick(60)
+    ppt.clear_window()
+    ppt.actions_buttons(mouse)
+    ppt.board()
+    ppt.adversary_selected_play()
+    ppt.selected_play()
+    ppt.match_result()
 
-    pptls.last_click_status = mouse_input
+    ppt.last_click_status = mouse_input
 
     pg.display.update()
