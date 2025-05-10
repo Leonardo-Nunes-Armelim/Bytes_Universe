@@ -156,6 +156,14 @@ Espero que vocês gostem do que eu montei aqui.
       </td>
       <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/016_Flow.png" alt="" style="width: 350px; max-height: auto;"></td>
     </tr>
+    <tr>
+      <td>
+        <p><b>017: Pac-Man</b></p>
+        <p>:film_strip:<a href="https://youtu.be/dt_1IcD_vbs"><b>Vídeo Completo no YouTube</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/017_Pac_Man"><b>Pasta do Projeto</b></a></p>
+      </td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/017_Pac_Man.png" alt="" style="width: 350px; max-height: auto;"></td>
+    </tr>
   </tbody>
 </table>
 
