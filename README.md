@@ -180,24 +180,13 @@ Espero que vocês gostem do que eu montei aqui.
       </td>
       <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/019_Travessia.png" alt="" style="width: 350px; max-height: auto;"></td>
     </tr>
-  </tbody>
-</table>
-
-## 2. Projects Under Development | Projetos em Desenvolvimento
-
-<table>
-  <thead>
-    <th>Jogo e Links</th>
-    <th>Imagem</th>
-  </thead>
-  <tbody>
     <tr>
       <td>
-        <p><b>01: Xadrez (Python :snake:)</b></p>
-        <p>:film_strip:<a href="https://www.youtube.com/watch?v=xMB_WjkwMLE&list=PLgXoNCMC3FvYOo-g8T9tTN5fHH1r10ENg&index=6&t=368s"><b>Vídeo Demonstrativo do Projeto</b></a></p>
-        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/000_Em_desenvolvimento/01_Xadrez"><b>Pasta do Projeto</b></a></p>
+        <p><b>020: Xadrez</b></p>
+        <p>:film_strip:<a href=""><b>Vídeo Completo no YouTube</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/020_Xadrez"><b>Pasta do Projeto</b></a></p>
       </td>
-      <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/01_Xadrez.png" alt="001_Simon_the_Game.png" style="width: 350px; max-height: auto;"></td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/020_Xadrez.png" alt="" style="width: 350px; max-height: auto;"></td>
     </tr>
   </tbody>
 </table>
