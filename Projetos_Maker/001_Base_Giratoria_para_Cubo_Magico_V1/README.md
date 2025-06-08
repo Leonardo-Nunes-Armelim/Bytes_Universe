@@ -4,11 +4,11 @@ Olá pessoal,
 
 Nesse repositório vocês vão encontrar todos os arquivos necessários para fazer uma base giratória para o cubo mágico.
 
-<img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Projetos_Maker/Base_Giratoria_para_Cubo_Magico_V1/Base.png" alt="" style="width: 250px; max-height: auto;">
+<img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Projetos_Maker/001_Base_Giratoria_para_Cubo_Magico_V1/Base.png" alt="" style="width: 250px; max-height: auto;">
 
 ## Conexões do Arduino Nano
 
-<img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Projetos_Maker/Base_Giratoria_para_Cubo_Magico_V1/Conex%C3%B5es%20do%20Arduino.png" alt="" style="width: 250px; max-height: auto;">
+<img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Projetos_Maker/001_Base_Giratoria_para_Cubo_Magico_V1/Conexoes_do_Arduino.png" alt="" style="width: 250px; max-height: auto;">
 
 ## Lista de Componentes Eletrônicos:
 
