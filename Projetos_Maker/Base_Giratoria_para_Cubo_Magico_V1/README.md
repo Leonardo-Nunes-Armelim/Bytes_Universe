@@ -28,4 +28,4 @@ Nesse repositório vocês vão encontrar todos os arquivos necessários para faz
 
 n - Fios / Jumpers
 
-Vídeo YouTube: 
+Vídeo YouTube: https://youtu.be/gSgFq0IWqZc
