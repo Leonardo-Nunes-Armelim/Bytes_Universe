@@ -3,7 +3,7 @@
 #include "speaker.h"
 #include "utils.h"
 
-#include "sokoban.h"
+//#include "jogo.h"
 
 
 void setup() {
@@ -37,7 +37,7 @@ void setup() {
 void loop() {
   display.clearDisplay();
 
-  sokoban.game();
+  // Jogo
 
   display.display();
 }
