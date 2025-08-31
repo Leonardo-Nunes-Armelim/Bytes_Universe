@@ -192,7 +192,7 @@ Espero que vocês gostem do que eu montei aqui.
       <td>
         <p><b>021: Damas</b></p>
         <p>:film_strip:<a href="https://youtu.be/PRe3fKtCcFA"><b>Vídeo Completo no YouTube</b></a></p>
-        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/024_Checkers"><b>Pasta do Projeto</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/021_Checkers"><b>Pasta do Projeto</b></a></p>
       </td>
       <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/024_Checkers.png" alt="" style="width: 350px; max-height: auto;"></td>
     </tr>
