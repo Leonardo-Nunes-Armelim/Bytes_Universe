@@ -198,7 +198,7 @@ Espero que vocês gostem do que eu montei aqui.
     </tr>
     <tr>
       <td>
-        <p><b>021: Damas</b></p>
+        <p><b>022: Typing Shooter</b></p>
         <p>:film_strip:<a href="https://youtu.be/PNy5-czr5wA"><b>Vídeo Completo no YouTube</b></a></p>
         <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/022_Typing_Shooter"><b>Pasta do Projeto</b></a></p>
       </td>
