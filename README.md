@@ -194,7 +194,15 @@ Espero que vocês gostem do que eu montei aqui.
         <p>:film_strip:<a href="https://youtu.be/PRe3fKtCcFA"><b>Vídeo Completo no YouTube</b></a></p>
         <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/021_Checkers"><b>Pasta do Projeto</b></a></p>
       </td>
-      <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/024_Checkers.png" alt="" style="width: 350px; max-height: auto;"></td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/021_Checkers.png" alt="" style="width: 350px; max-height: auto;"></td>
+    </tr>
+    <tr>
+      <td>
+        <p><b>021: Damas</b></p>
+        <p>:film_strip:<a href="https://youtu.be/PNy5-czr5wA"><b>Vídeo Completo no YouTube</b></a></p>
+        <p>:open_file_folder:<a href="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/tree/main/Jogos_em_Python/022_Typing_Shooter"><b>Pasta do Projeto</b></a></p>
+      </td>
+      <td><img src="https://github.com/Leonardo-Nunes-Armelim/Bytes_Universe/blob/main/Screenshots/022_Typing_Shooter.png" alt="" style="width: 350px; max-height: auto;"></td>
     </tr>
   </tbody>
 </table>
