@@ -1,0 +1,9 @@
+Prompt 1
+Explique como funciona o jogo Geometry Dash
+
+Prompt 2
+Com base na sua explicação do jogo crie o jogo Geometry Dash em python com a biblioteca PyGame. Quero comtrolar o salto do personagem pela barra de espaço
+
+Prompt 3
+Esse jogo ficou muito parecido com o jogo do dinossauro quando não tem internet, quero que você melhore o jogo colocando plataformas que o nosso cubo pode subir, buracos na fase e outros obstáculos dinâmicos que se mexem
+Me de o código completo em python sobre essas melhorias
