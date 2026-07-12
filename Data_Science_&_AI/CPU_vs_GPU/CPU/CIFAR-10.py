@@ -1,0 +1,178 @@
+import time
+import torch
+import torch.nn as nn
+import torch.optim as optim
+from tensorflow.keras.datasets import cifar10
+from torch.utils.data import TensorDataset, DataLoader
+
+# ==========================
+# CARREGA CIFAR-10
+# ==========================
+
+(train_X, train_y), (test_X, test_y) = cifar10.load_data()
+
+train_X = torch.tensor(train_X, dtype=torch.float32) / 255.0
+test_X = torch.tensor(test_X, dtype=torch.float32) / 255.0
+
+# Converte para formato PyTorch
+# (N, H, W, C) -> (N, C, H, W)
+
+train_X = train_X.permute(0, 3, 1, 2)
+test_X = test_X.permute(0, 3, 1, 2)
+
+train_y = torch.tensor(train_y.squeeze(), dtype=torch.long)
+test_y = torch.tensor(test_y.squeeze(), dtype=torch.long)
+
+train_loader = DataLoader(
+    TensorDataset(train_X, train_y),
+    batch_size=256,
+    shuffle=True
+)
+
+test_loader = DataLoader(
+    TensorDataset(test_X, test_y),
+    batch_size=256
+)
+
+# ==========================
+# CNN
+# ==========================
+
+class CIFARNet(nn.Module):
+
+    def __init__(self):
+        super().__init__()
+
+        self.features = nn.Sequential(
+
+            nn.Conv2d(3, 32, kernel_size=3, padding=1),
+            nn.ReLU(),
+            nn.BatchNorm2d(32),
+
+            nn.Conv2d(32, 32, kernel_size=3, padding=1),
+            nn.ReLU(),
+
+            nn.MaxPool2d(2),
+
+            nn.Conv2d(32, 64, kernel_size=3, padding=1),
+            nn.ReLU(),
+            nn.BatchNorm2d(64),
+
+            nn.Conv2d(64, 64, kernel_size=3, padding=1),
+            nn.ReLU(),
+
+            nn.MaxPool2d(2),
+
+            nn.Conv2d(64, 128, kernel_size=3, padding=1),
+            nn.ReLU(),
+            nn.BatchNorm2d(128),
+
+            nn.MaxPool2d(2)
+        )
+
+        self.classifier = nn.Sequential(
+
+            nn.Flatten(),
+
+            nn.Linear(128 * 4 * 4, 512),
+            nn.ReLU(),
+
+            nn.Dropout(0.5),
+
+            nn.Linear(512, 10)
+        )
+
+    def forward(self, x):
+
+        x = self.features(x)
+        x = self.classifier(x)
+
+        return x
+
+model = CIFARNet()
+
+device = torch.device("cpu")
+model.to(device)
+
+criterion = nn.CrossEntropyLoss()
+optimizer = optim.Adam(model.parameters(), lr=0.001)
+
+epochs = 30
+
+# ==========================
+# TREINAMENTO
+# ==========================
+
+inicio = time.perf_counter()
+
+for epoch in range(epochs):
+
+    model.train()
+
+    loss_medio = 0
+
+    for images, labels in train_loader:
+
+        images = images.to(device)
+        labels = labels.to(device)
+
+        optimizer.zero_grad()
+
+        outputs = model(images)
+
+        loss = criterion(outputs, labels)
+
+        loss.backward()
+
+        optimizer.step()
+
+        loss_medio += loss.item()
+
+    loss_medio /= len(train_loader)
+
+    print(
+        f"Epoch {epoch+1:02d}/{epochs} "
+        f"- Loss: {loss_medio:.4f}"
+    )
+
+fim = time.perf_counter()
+
+# ==========================
+# TESTE
+# ==========================
+
+model.eval()
+
+corretos = 0
+total = 0
+
+with torch.no_grad():
+
+    for images, labels in test_loader:
+
+        images = images.to(device)
+        labels = labels.to(device)
+
+        outputs = model(images)
+
+        _, predicted = torch.max(outputs, 1)
+
+        total += labels.size(0)
+        corretos += (predicted == labels).sum().item()
+
+accuracy = 100 * corretos / total
+
+print(f"\nAcurácia: {accuracy:.2f}%")
+print(f"Tempo treinamento CPU: {fim - inicio:.2f} segundos")
+
+total_params = sum(p.numel() for p in model.parameters())
+
+print(f"Parâmetros da rede: {total_params:,}")
+
+# ==========================
+# SALVAR MODELO
+# ==========================
+
+torch.save(model.state_dict(), "cifar_10_model_cpu.pth")
+
+print("Modelo salvo com sucesso!")
